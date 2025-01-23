@@ -1,5 +1,5 @@
 # Hi, I'm Harry! 👋  
-**thorfinn22 · he/him**  
+**thorfinn22 · **  
 🎓 **Software Engineering @ Swinburne University of Technology**  
 
 ---
@@ -27,4 +27,4 @@
 
 ### 📬 **Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hareemon-worthy-1b8942268)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hareemonworthy@gmail.com)  
