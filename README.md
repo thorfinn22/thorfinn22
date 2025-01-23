@@ -1,5 +1,5 @@
 # Hi, I'm Harry! 👋  
-**thorfinn22 · **  
+ 
 🎓 **Software Engineering @ Swinburne University of Technology**  
 
 ---
