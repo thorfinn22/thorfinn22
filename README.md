@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=783c94&height=250&section=header&text=HELLO%20WORLD%20🎮&fontSize=45&fontAlignY=40&desc=Software%20Engineer%20%7C%20Android%20Dev%20%7C%20ML%20Enthusiast&descSize=20&descAlignY=60&animation=twinkling)
 
 <div align="center">
-  <img src=["https://i.imgur.com/YPMbHDP.png" width="100%" alt="Pixel Gaming Setup"](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif))/>
+  <img src=(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif))/>
 </div>
 
 ---
