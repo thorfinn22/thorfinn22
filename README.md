@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=neon&height=250&section=header&text=HELLO%20WORLD!%20%F0%9F%9A%80&fontSize=50&fontAlignY=40&desc=Software%20Engineer%20%7C%20Android%20Dev%20%7C%20ML%20Enthusiast&descSize=20&descAlignY=60)
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Gamer Vibe GIF"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Gamer Guy GIF"/>
 
 ---
 
@@ -9,7 +9,7 @@
 - 💻 Passionate about Android Development & Machine Learning
 - 🔥 Always exploring new tech & building innovative solutions
 - 🏆 Striving to improve every day through coding & learning
-- ⚡ Fun fact: I can debug faster than a speedrunner breaking records!
+- ⚡ Fun fact: I can optimize code faster than a pro gamer tweaks their settings!
 
 ---
 
