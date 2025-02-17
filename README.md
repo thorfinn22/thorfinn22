@@ -1,12 +1,12 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=783c94&height=250&section=header&text=HELLO%20WORLD%20🎮&fontSize=45&fontAlignY=40&desc=Software%20Engineer%20%7C%20Android%20Dev%20%7C%20ML%20Enthusiast&descSize=20&descAlignY=60&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=783c94&height=250&section=header&text=GAME%20CONSOLE%20LOADED%20🎮&fontSize=45&fontAlignY=40&desc=Software%20Engineer%20%7C%20Android%20Dev%20%7C%20ML%20Enthusiast&descSize=20&descAlignY=60&animation=twinkling)
 
 <div align="center">
-  <img src=(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif))/>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" width="100%" alt="Gaming Console Animation"/>
 </div>
 
 ---
 ## 🎮 `PLAYER.DATA //ABOUT_ME`
-
+```python
 class PlayerProfile:
     def __init__(self):
         self.university = "Swinburne University of Technology"
@@ -14,15 +14,32 @@ class PlayerProfile:
         self.skill_tree = ["Android Development", "Machine Learning"]
         self.quest_status = "Exploring new tech & building innovative solutions"
         self.achievement = "Can optimize code faster than a pro gamer tweaks their settings!"
+```
 
 ## 📊 `PLAYER.STATS //GITHUB_METRICS`
-<div align="center" style="background:#1a1b27; padding:25px; border-radius:15px; border: 2px solid #783c94;">
-  <img src="https://github-readme-stats.vercel.app/api?username=thorfinn22&show_icons=true&theme=midnight-purple&border_color=783c94&bg_color=1a1b27&title_color=ff7ac6&icon_color=bf91f3" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thorfinn22&theme=midnight-purple&border=783c94&background=1a1b27&ring=ff7ac6&fire=ff7ac6&currStreakNum=bf91f3&dates=bf91f3&sideNums=ff7ac6" height="180px"/>
+<div align="center">
+<table style="background:#1a1b27; border-radius:15px; border: 2px solid #783c94; padding:10px">
+  <tr>
+    <td>
+      <img height="170px" src="https://github-readme-stats.vercel.app/api?username=thorfinn22&show_icons=true&theme=midnight-purple&border_color=783c94&bg_color=1a1b27&title_color=ff7ac6&icon_color=bf91f3&custom_title=PLAYER%20STATS%20[Level%2025]"/>
+    </td>
+    <td>
+      <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=thorfinn22&theme=midnight-purple&border=783c94&background=1a1b27&ring=ff7ac6&fire=ff7ac6&currStreakNum=bf91f3&dates=bf91f3&sideNums=ff7ac6&currStreakLabel=ff7ac6&stroke=783c94"/>
+    </td>
+  </tr>
+</table>
+
+<div style="background:#1a1b27; padding:20px; border-radius:15px; margin-top:20px; border: 2px solid #783c94;">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thorfinn22&layout=compact&theme=midnight-purple&border_color=783c94&bg_color=1a1b27&title_color=ff7ac6&custom_title=SKILL%20TREE%20PROGRESSION"/>
 </div>
 
-<div align="center" style="background:#1a1b27; padding:25px; border-radius:15px; margin-top:20px; border: 2px solid #783c94;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thorfinn22&layout=compact&theme=midnight-purple&border_color=783c94&bg_color=1a1b27&title_color=ff7ac6" height="180px"/>
+```ascii
+╔══════════════════ ACHIEVEMENT UNLOCKED ══════════════════╗
+║  🏆 Completed 55+ Commits                                ║
+║  🔥 Current Streak: 2 Days                              ║
+║  ⭐ Longest Streak: 4 Days                              ║
+╚═══════════════════════════════════════════════════════════╝
+```
 </div>
 
 ## 🔮 `INVENTORY.CHECK //TECH_STACK`
@@ -48,9 +65,9 @@ class PlayerProfile:
 ---
 <div align="center">
   
-
-@@ GAME SAVE STATUS: AUTOSAVED ✨ | ACHIEVEMENTS UNLOCKED 🏆 | MULTIPLAYER: ONLINE 🌐 @@
-
+```diff
+@@ SAVE FILE LOADED ✨ | ACHIEVEMENTS TRACKED 🏆 | PLAYER STATUS: ONLINE 🌐 @@
+```
   
 </div>
 
