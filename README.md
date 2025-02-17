@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=783c94&height=250&section=header&text=GAME%20CONSOLE%20LOADED%20🎮&fontSize=45&fontAlignY=40&desc=Software%20Engineer%20%7C%20Android%20Dev%20%7C%20ML%20Enthusiast&descSize=20&descAlignY=60&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=783c94&height=250&section=header&text=HELLO%20WORLD%20🎮&fontSize=45&fontAlignY=40&desc=Software%20Engineer%20%7C%20Android%20Dev%20%7C%20ML%20Enthusiast&descSize=20&descAlignY=60&animation=twinkling)
 
 <div align="center">
   <img src="https://i.imgur.com/YPMbHDP.png" width="100%" alt="Pixel Gaming Setup"/>
@@ -6,7 +6,7 @@
 
 ---
 ## 🎮 `PLAYER.DATA //ABOUT_ME`
-```python
+
 class PlayerProfile:
     def __init__(self):
         self.university = "Swinburne University of Technology"
@@ -14,7 +14,6 @@ class PlayerProfile:
         self.skill_tree = ["Android Development", "Machine Learning"]
         self.quest_status = "Exploring new tech & building innovative solutions"
         self.achievement = "Can optimize code faster than a pro gamer tweaks their settings!"
-```
 
 ## 📊 `PLAYER.STATS //GITHUB_METRICS`
 <div align="center" style="background:#1a1b27; padding:25px; border-radius:15px; border: 2px solid #783c94;">
@@ -49,9 +48,9 @@ class PlayerProfile:
 ---
 <div align="center">
   
-```diff
+
 @@ GAME SAVE STATUS: AUTOSAVED ✨ | ACHIEVEMENTS UNLOCKED 🏆 | MULTIPLAYER: ONLINE 🌐 @@
-```
+
   
 </div>
 
