@@ -1,29 +1,29 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20My%20Dev%20Zone!%20%F0%9F%94%A5&fontSize=50&fontAlignY=40&desc=Software%20Engineer%20%7C%20Android%20Dev%20%7C%20ML%20Enthusiast&descSize=20&descAlignY=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=HELLO%20WORLD!%20%F0%9F%9A%80&fontSize=50&fontAlignY=40&desc=Software%20Engineer%20%7C%20Android%20Dev%20%7C%20ML%20Enthusiast&descSize=20&descAlignY=60)
 
 ---
 
-## 🚀 About Me
+## 🎮 About Me
 - 🎓 **Software Engineering @ Swinburne University of Technology**
 - 💻 Passionate about Android Development & Machine Learning
 - 🔥 Always exploring new tech & building innovative solutions
 - 🏆 Striving to improve every day through coding & learning
-- ⚡ Fun fact: I can extract patterns from chaos like a pro!  
+- ⚡ Fun fact: I can optimize code like a speedrunner breaking records!
 
 ---
 
-## 🏆 GitHub XP Stats  
+## 🕹️ Console Stats: GitHub XP
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thorfinn22&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thorfinn22&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thorfinn22&show_icons=true&theme=gruvbox" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thorfinn22&theme=gruvbox" height="180px"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thorfinn22&layout=compact&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thorfinn22&layout=compact&theme=gruvbox" height="180px"/>
 </div>
 
 ---
 
-## ⚙️ Loadout: Languages & Tools
+## 🎛️ Loadout: Languages & Tools
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
