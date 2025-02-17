@@ -1,4 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=HELLO%20WORLD!%20%F0%9F%9A%80&fontSize=50&fontAlignY=40&desc=Software%20Engineer%20%7C%20Android%20Dev%20%7C%20ML%20Enthusiast&descSize=20&descAlignY=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=neon&height=250&section=header&text=HELLO%20WORLD!%20%F0%9F%9A%80&fontSize=50&fontAlignY=40&desc=Software%20Engineer%20%7C%20Android%20Dev%20%7C%20ML%20Enthusiast&descSize=20&descAlignY=60)
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Gamer Vibe GIF"/>
 
 ---
 
@@ -7,18 +9,18 @@
 - 💻 Passionate about Android Development & Machine Learning
 - 🔥 Always exploring new tech & building innovative solutions
 - 🏆 Striving to improve every day through coding & learning
-- ⚡ Fun fact: I can optimize code like a speedrunner breaking records!
+- ⚡ Fun fact: I can debug faster than a speedrunner breaking records!
 
 ---
 
 ## 🕹️ Console Stats: GitHub XP
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thorfinn22&show_icons=true&theme=gruvbox" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thorfinn22&theme=gruvbox" height="180px"/>
+<div align="center" style="background:#121212; padding:10px; border-radius:10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=thorfinn22&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thorfinn22&theme=tokyonight" height="180px"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thorfinn22&layout=compact&theme=gruvbox" height="180px"/>
+<div align="center" style="background:#121212; padding:10px; border-radius:10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thorfinn22&layout=compact&theme=tokyonight" height="180px"/>
 </div>
 
 ---
@@ -47,4 +49,4 @@
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=neon&height=150&section=footer)
