@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=neon&height=250&section=header&text=HELLO%20WORLD!%20%F0%9F%9A%80&fontSize=50&fontAlignY=40&desc=Software%20Engineer%20%7C%20Android%20Dev%20%7C%20ML%20Enthusiast&descSize=20&descAlignY=60)
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Gamer Guy GIF"/>
+<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Gamer Guy GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FPritam-2002&psig=AOvVaw1b8Evbi5-Bh_ez3YG5ovbW&ust=1739846983455000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDyzqDZyYsDFQAAAAAdAAAAABAJ)"/>
 
 ---
 
